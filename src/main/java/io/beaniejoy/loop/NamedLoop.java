@@ -1,4 +1,4 @@
-package io.beaniejoy.exception.loop;
+package io.beaniejoy.loop;
 
 public class NamedLoop {
 
