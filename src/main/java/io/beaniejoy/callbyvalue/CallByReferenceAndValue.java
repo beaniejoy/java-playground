@@ -1,4 +1,4 @@
-package io.beaniejoy.call;
+package io.beaniejoy.callbyvalue;
 
 /**
  * 사실 call by reference는 없다. call by value만 있을뿐

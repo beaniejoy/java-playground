@@ -1,4 +1,4 @@
-package io.beaniejoy.call;
+package io.beaniejoy.callbyvalue;
 
 public class ArrayCopy {
 
